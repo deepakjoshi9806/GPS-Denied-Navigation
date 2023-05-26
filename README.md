@@ -1,2 +1,3 @@
 # GPS-Denied-Navigation
-PX4, realsense T-265 and python
+tech stacks used: PX4 firmware, intel realsense T-265 tracking camera
+language: python
